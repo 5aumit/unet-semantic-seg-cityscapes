@@ -1,0 +1,6 @@
+dataprep_1.ipynb
+
+*__pycache__/
+*.ipynb_checkpoints/
+data.zip
+data/
